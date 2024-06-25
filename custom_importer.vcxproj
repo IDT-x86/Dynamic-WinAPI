@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="custom_importer\importer.hpp" />
+    <ClInclude Include="src\importer.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="custom_importer\main.cpp" />
+    <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
